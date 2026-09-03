@@ -1,3 +1,7 @@
+## DOLL-HOUSE:
+I made a dollhouse in onshape(my first ever project!) ,I created a room that has an apple shaped bed and a pear shelf and one of the walls have a window.
+
+
 ## ROOM:
 <img width="702" height="592" alt="image" src="https://github.com/user-attachments/assets/d8a89d7c-55ba-4335-a852-fece7dc02dff" />
 
